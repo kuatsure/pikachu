@@ -1,0 +1,18 @@
+{
+  "name": "pikachu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "thunderbolt now!",
+  "main": "pikachu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrett Drouillard",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.8.85",
+    "keypress": "^0.2.1",
+    "say": "^0.6.0",
+    "underscore.string": "^3.1.1"
+  }
+}
